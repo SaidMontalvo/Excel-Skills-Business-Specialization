@@ -1,0 +1,85 @@
+1.
+Pregunta 1
+¿Cuántos argumentos de entrada espera la función AND ?
+
+1 / 1 punto
+
+
+
+Solo 1.
+
+
+2 solamente. 
+
+
+3 solamente. 
+
+
+Variable: hasta 255. (X)
+
+Correcto
+This is the correct answer. 
+2.
+Pregunta 2
+¿Cuántos argumentos de entrada espera la función OR ?
+
+1 / 1 punto
+
+
+
+Solo 1. 
+
+
+2 solamente. 
+
+
+3 solamente. 
+
+
+Variable: hasta 255. (X)
+
+Correcto
+This is the correct answer. 
+3.
+Pregunta 3
+Una fórmula que daría la respuesta VERDADERO si las celdas X1 , Y1 y Z1 están en orden ascendente (no se permiten empates) y FALSO si no, podría verse así:
+
+1 / 1 punto
+
+
+
+= Y (X1 <Z1, Y1 <Z1)
+
+
+= O (X1 <Y1, Y1 <Z1, X1 <Z1)
+
+
+= Y (X1 <Y1, Y1 <Z1) (x)
+
+
+ = Y (X1 <Y1, X1 <Z1)
+
+Correcto
+This is the correct answer. 
+4.
+Pregunta 4
+Para verificar valores duplicados (al menos 2 celdas con el mismo valor) entre X1 , Y1 y Z1 , ¿cuál de las siguientes opciones dará VERDADERO si hay valores duplicados?
+
+1 / 1 punto
+
+
+
+= O (X1 = Y1, Y1 = Z1)
+
+
+= Y (X1 = Y1, Y1 = Z1)
+
+
+= O (X1 = Y1, X1 = Z1)
+
+
+= O (X1 = Y1, X1 = Z1, Y1 = Z1) (x)
+
+Correcto
+This is the correct response.
+
